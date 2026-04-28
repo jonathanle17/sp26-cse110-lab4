@@ -20,11 +20,11 @@
 
 12e. student.courseload[0];
 
-13a. 
+13a. '32', when '+' is used with at least one string, the operator defaults to string concatenation.
 
-13b.
+13b. 1, '-' only works with numbers.
 
-13c.
+13c. 3, null is converted to 0 when dealing with numerical operators.
 
 13d.
 

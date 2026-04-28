@@ -10,8 +10,12 @@
 10. 3
 11. [50, 100, 150]
 
-12a. student.name;
+12a. student.name; 
+
 12b. student['Grad Year'];
+
 12c. student.greeting();
+
 12d. student['Favorite Teacher'].name;
+
 12e. student.courseload[0];

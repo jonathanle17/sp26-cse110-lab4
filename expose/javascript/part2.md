@@ -26,15 +26,15 @@
 
 13c. 3, null is converted to 0 when dealing with numerical operators.
 
-13d.
+13d. '3null' because '3' is treated as a string so then null is too.
 
-13e.
+13e. 4, boolean is converted to numbers for math (true = 1).
 
-13f.
+13f. 0, both false and null are converted to 0 for addition.
 
-13g.
+13g. '3undefined', undefined is converted into a string since working with a '3' string.
 
-13h.
+13h. NaN, '-' requires number and any operation with undefined which is NaN results in Nan.
 
 14a. 
 

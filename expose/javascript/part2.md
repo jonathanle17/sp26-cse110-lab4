@@ -36,14 +36,16 @@
 
 13h. NaN, '-' requires number and any operation with undefined which is NaN results in Nan.
 
-14a. 
+14a. true, '2' is converted into a number for comparison.
 
-14b.
+14b. false, comparing strings goes character by character so since 2 is greater than 1 in 12, false.
 
-14c.
+14c. true, == is loose comparison so type conversion can be checked for equality.
 
-14d.
+14d. false, === checks same value as well as type.
 
-14e.
+14e. false, under loose comparison, true converted to 1 which is not equal to 2.
 
-14f.
+14f. true, boolean of any non-zero is true so booleans match.
+
+15. == is loose comparison so just checks for same value (can be type converted). === is strict comparison so requires same value and type.

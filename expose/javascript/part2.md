@@ -51,3 +51,5 @@
 15. == is loose comparison so just checks for same value (can be type converted). === is strict comparison so requires same value and type.
 
 17. [2, 4, 6], in the for loop, the callback function is called on the i value of the array and then pushed into the new array. In this scenario, the callback multiples the value by 2 so the double of the original array value is pushed into the new array and then returned after the for loop.
+
+19. 1, 4, 3, 2

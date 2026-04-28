@@ -19,3 +19,31 @@
 12d. student['Favorite Teacher'].name;
 
 12e. student.courseload[0];
+
+13a. 
+
+13b.
+
+13c.
+
+13d.
+
+13e.
+
+13f.
+
+13g.
+
+13h.
+
+14a. 
+
+14b.
+
+14c.
+
+14d.
+
+14e.
+
+14f.
